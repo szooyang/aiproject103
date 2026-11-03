@@ -17,7 +17,7 @@ st.write("국가를 선택하면 해당 국가의 MBTI 유형별 비율을 확�
 BASE_DIR = Path(__file__).parent
 
 CSV_CANDIDATES = [
-    BASE_DIR / "countriesMBTI_16types(7).csv",
+    BASE_DIR / "countriesMBTI_16types.csv",
     BASE_DIR / "countriesMBTI_16types.csv",
     BASE_DIR / "countriesMBTI.csv"
 ]
